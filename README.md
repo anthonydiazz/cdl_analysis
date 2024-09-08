@@ -76,3 +76,45 @@ This visual will show the difference between teams win percentages online vs LAN
 * With the Miami Herectics 2024 season being there first, have an upside of just performing online a lot better then LAN.
 
 
+## 4. What are Key Factors for Qualifying for Champs? 
+
+### Overview 
+
+This is an analysis to understand the key factors for a team to qualify for champs, including season points , tournament placings, and understanding what future teams will have to do in order to qualify for champs in 2025. In this Analysis we filtered out all the 8th place teams from 2021 all the way to 2024 
+
+#### Analysis 
+
+![Install Requests](./img_2/describe_perfor.png)
+
+
+In this image we can point out some key statistics that shows the average points, the amount of wins each of these 8th places teams get and a lot more that can help us understand what criterias you need to fullfill in order to get into the biggest COD tournamnet of the year.
+
+
+### Key Insights 
+
+* Average Points = 186.25
+  - Looking into the average points you would want at least 160 points as the min for all teams was 160 and your goal would be 210 since that is what the highest value was.
+
+* Total Series Averages , Wins = 16 , Losses = 19
+  - Looking into these values you would want to win about 17 games as that is the max and not lose more than 22 games as that will have you disqualified
+
+* describe analysis
+  - When analyzing the 8th place teams you can see that the majority of them get there wins from online play
+  - Meaning if your team can get consistently high placings on LAN and get points from both online play and LAN they should be in good spots because all 4 teams that have been in this position did not do that which can lead to you being in this posistion
+
+* Majors vs Online Win percentages
+
+![Install Requests](./img_2/teams_8th_percentage.png)
+
+
+# Conclusion 
+
+This CDL dataset provides insights into all the teams that have participated in the COD League up until 2024. The dataset provided data on which teams have been the most dominant , analysis into which teams perform better on LAN then Online, and what it takes to qualify for champs.This analysis serves as a foundational understanding of CDL team dynamics over the past four seasons. 
+
+
+
+
+
+
+
+
